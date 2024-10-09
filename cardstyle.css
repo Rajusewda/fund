@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    width: 100%;
+    background-image: url(bghome.jpg) center;
+ background-size: cover;
+}
+.cards{
+ width: 100%;
+ 
+ 
+}
